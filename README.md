@@ -5,10 +5,10 @@
 - [ ] BG aplicatie
 - [ ] Grid
 - [ ] Butoane
-- [ ] Form
+- [ ] Form Rezervare Spalat Covoare
 - [ ] api boxe
 - [ ] timer
-- [ ] calculator pret
+- [ ] calculator pret 1+ covoare
 - [ ] logo aplicatie /splash
 - [ ] Spalare Masini > Boxe (status live)
 - [ ] Covoare > Calculator > Rezervare Spalat Covoare  
