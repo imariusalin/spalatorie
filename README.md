@@ -19,9 +19,9 @@
 - [x] Rezervare Covoare
 - [x] Dashboard Widget Activ Status Boxe
 - [x] Api postare status + timer
-- [ ] de dezactivat camp timer la status disponibil
+- [x] de dezactivat camp timer la status disponibil
 - [ ] status disponibil > timer = ""   
-- [ ] css aranjare dropdown + button
-- [ ] bg boxa in functie de status
+- [x] css aranjare dropdown + button
+- [x] bg boxa in functie de status
 - [ ] api calculator pret covoare
 - [ ] api postare rezervare covoare 
